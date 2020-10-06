@@ -2,8 +2,8 @@
 
 #Roles:
 #  1.Christian Marcos:
-#  2.Sebastián Correa:
-#  3.Álvaro Aguilera:
-#  4.Benito Cuadra:
-#  5.Cristóbal De Vidts:
+#  2.Sebastián Correa: Gerente de Proyecto (organizador)
+#  3.Álvaro Aguilera: Documentalista (Investigación y grabación)
+#  4.Benito Cuadra: Documentalista (Investigación y grabación)
+#  5.Cristóbal De Vidts: Desarrollador de Software (Desarrolador del código, software)
 #  6.Tomás Dezerega:
