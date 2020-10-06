@@ -6,4 +6,4 @@
 #  3.Álvaro Aguilera: Documentalista (Investigación y grabación)
 #  4.Benito Cuadra: Documentalista (Investigación y grabación)
 #  5.Cristóbal De Vidts: Desarrollador de Software (Desarrolador del código, software)
-#  6.Tomás Dezerega:
+#  6.Tomás Dezerega: Documentalista (Investigación y grabación)
